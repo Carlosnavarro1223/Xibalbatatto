@@ -1,0 +1,480 @@
+msgid ""
+msgstr "" 
+"Project-Id-Version: Tattoo Designer\n"
+"POT-Creation-Date: 2022-09-12 20:24+2\n"
+"PO-Revision-Date: 2022-09-12 20:24+2\n"
+"Last-Translator: \n"
+"Language-Team: classictemplate <support@theclassictemplates.com>\n"
+"Language: en_US\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+ 
+#: template-home-page.php:39
+msgid "Read More"
+msgstr ""
+
+#: customizer.php:34
+msgid "Logo Width"
+msgstr ""
+
+#: customizer.php:54
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer.php:66
+msgid "Enable Site Title"
+msgstr ""
+
+#: customizer.php:81
+msgid "Site Tagline Color"
+msgstr ""
+
+#: customizer.php:93
+msgid "Enable Site Tagline"
+msgstr ""
+
+#: customizer.php:99
+msgid "WooCommerce Page Settings"
+msgstr ""
+
+#: customizer.php:111
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: customizer.php:114
+msgid "Left Sidebar"
+msgstr ""
+
+#: customizer.php:115
+msgid "Right Sidebar"
+msgstr ""
+
+#: customizer.php:123
+msgid "Theme Options Panel"
+msgstr ""
+
+#: customizer.php:128
+msgid "Manage Header Section"
+msgstr ""
+
+#: customizer.php:129
+msgid "<p class=\"sec-title\">Manage Header Section</p>"
+msgstr ""
+
+#: customizer.php:141
+msgid "Check To Show Topbar"
+msgstr ""
+
+#: customizer.php:152
+msgid "Check To Show Sticky Header"
+msgstr ""
+
+#: customizer.php:166
+msgid "Logo Border Color"
+msgstr ""
+
+#: customizer.php:180
+msgid "Header BG Color"
+msgstr ""
+
+#: customizer.php:192
+msgid "PhoneNo Text"
+msgstr ""
+
+#: customizer.php:205
+msgid "Email Text"
+msgstr ""
+
+#: customizer.php:220
+msgid "PhoneNo & Email Text Color"
+msgstr ""
+
+#: customizer.php:233
+msgid "Add ContactUs Button"
+msgstr ""
+
+#: customizer.php:245
+msgid "ContactUs Button Link"
+msgstr ""
+
+#: customizer.php:259 customizer.php:590 customizer.php:926
+msgid "Button Text Color"
+msgstr ""
+
+#: customizer.php:273 customizer.php:604 customizer.php:940
+msgid "Button BG Color"
+msgstr ""
+
+#: customizer.php:287
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: customizer.php:301 customizer.php:618
+msgid "Button BG Hover Color"
+msgstr ""
+
+#: customizer.php:313
+msgid "Facebook Link"
+msgstr ""
+
+#: customizer.php:325
+msgid "Instagram Link"
+msgstr ""
+
+#: customizer.php:338
+msgid "Twitter Link"
+msgstr ""
+
+#: customizer.php:351
+msgid "Linkdin Link"
+msgstr ""
+
+#: customizer.php:365
+msgid "Social Icon Color"
+msgstr ""
+
+#: customizer.php:380
+msgid "Menu Color"
+msgstr ""
+
+#: customizer.php:395
+msgid "Menu Hover Color"
+msgstr ""
+
+#: customizer.php:409
+msgid "SubMenu Color"
+msgstr ""
+
+#: customizer.php:423
+msgid "SubMenu BG Color"
+msgstr ""
+
+#: customizer.php:437
+msgid "SubMenu Hover Color"
+msgstr ""
+
+#: customizer.php:451
+msgid "SubMenu BG Hover Color"
+msgstr ""
+
+#: customizer.php:457
+msgid "Google Fonts"
+msgstr ""
+
+#: customizer.php:502
+msgid "Select your desired font for the headings."
+msgstr ""
+
+#: customizer.php:512
+msgid "Select your desired font for the body."
+msgstr ""
+
+#: customizer.php:520
+msgid "Manage Slider Section"
+msgstr ""
+
+#: customizer.php:521
+msgid ""
+"<p class=\"sec-title\">Manage Slider Section</p> Select Category from the "
+"Dropdowns for slider, Also use the given image dimension (1600 x 850)."
+msgstr ""
+
+#: customizer.php:546 customizer.php:765 customizer.php:856
+msgid "Check To Enable This Section"
+msgstr ""
+
+#: customizer.php:558
+msgid "Add Button Text"
+msgstr ""
+
+#: customizer.php:575 customizer.php:808 customizer.php:898 customizer.php:1088
+msgid "Title Color"
+msgstr ""
+
+#: customizer.php:632
+msgid "Prev Arrows Color"
+msgstr ""
+
+#: customizer.php:646
+msgid "Prev Arrows hover Color"
+msgstr ""
+
+#: customizer.php:660
+msgid "Prev Arrows BG Color"
+msgstr ""
+
+#: customizer.php:674
+msgid "Prev Arrows BG Hover Color"
+msgstr ""
+
+#: customizer.php:688
+msgid "Next Arrows Color"
+msgstr ""
+
+#: customizer.php:702
+msgid "Next Arrows hover Color"
+msgstr ""
+
+#: customizer.php:716
+msgid "Next Arrows BG Color"
+msgstr ""
+
+#: customizer.php:730
+msgid "Next Arrows BG Hover Color"
+msgstr ""
+
+#: customizer.php:739
+msgid "Manage Services Section"
+msgstr ""
+
+#: customizer.php:740
+msgid ""
+"<p class=\"sec-title\">Manage Services Section</p> Select Pages from the "
+"dropdown for Services."
+msgstr ""
+
+#: customizer.php:778 customizer.php:869
+msgid "Heading"
+msgstr ""
+
+#: customizer.php:792 customizer.php:883
+msgid "Heading Color"
+msgstr ""
+
+#: customizer.php:822
+msgid "Title Arrow Color"
+msgstr ""
+
+#: customizer.php:830
+msgid "Manage Blog Section"
+msgstr ""
+
+#: customizer.php:831
+msgid ""
+"<p class=\"sec-title\">Manage Blog Section</p> Select Pages from the "
+"dropdown for blog."
+msgstr ""
+
+#: customizer.php:912 customizer.php:1102
+msgid "Description Color"
+msgstr ""
+
+#: customizer.php:954
+msgid "Date & comment Color"
+msgstr ""
+
+#: customizer.php:968
+msgid "Date Icon Color"
+msgstr ""
+
+#: customizer.php:974
+msgid "Manage Post Section"
+msgstr ""
+
+#: customizer.php:986
+msgid "Theme Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:987
+msgid "This option work for blog page, archive page and search page."
+msgstr ""
+
+#: customizer.php:990
+msgid "Full"
+msgstr ""
+
+#: customizer.php:991
+msgid "Left"
+msgstr ""
+
+#: customizer.php:992
+msgid "Right"
+msgstr ""
+
+#: customizer.php:993
+msgid "Three Columns"
+msgstr ""
+
+#: customizer.php:994
+msgid "Four Columns"
+msgstr ""
+
+#: customizer.php:995
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:1005
+msgid "Post Description Length"
+msgstr ""
+
+#: customizer.php:1008
+msgid "No Content"
+msgstr ""
+
+#: customizer.php:1009
+msgid "Excerpt Content"
+msgstr ""
+
+#: customizer.php:1010
+msgid "Full Content"
+msgstr ""
+
+#: customizer.php:1016
+msgid "Manage Footer Section"
+msgstr ""
+
+#: customizer.php:1017
+msgid "<p class=\"sec-title\">Manage Footer Section</p>"
+msgstr ""
+
+#: customizer.php:1027
+msgid "Copyright Line"
+msgstr ""
+
+#: customizer.php:1043
+msgid "Coypright Color"
+msgstr ""
+
+#: customizer.php:1057
+msgid "Coypright Hover Color"
+msgstr ""
+
+#: customizer.php:1073
+msgid "BG Color"
+msgstr ""
+
+#: customizer.php:1116
+msgid "List Color"
+msgstr ""
+
+#: customizer.php:1125
+msgid "Check To Show Scroll To Top"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:36
+msgid "#112b3c"
+msgstr ""
+
+#: header.php:112
+msgid "MENU"
+msgstr ""
+
+#: header.php:116
+msgid "Top Menu"
+msgstr ""
+
+#: header.php:126
+msgid "CLOSE"
+msgstr ""
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:89
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:90
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:99
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:101
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr ""
+
+#: functions.php:109
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:111
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:119
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:120
+msgid "Appears on footer One"
+msgstr ""
+
+#: functions.php:128
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:129
+msgid "Appears on footer Two"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:138
+msgid "Appears on footer Three"
+msgstr ""
+
+#: functions.php:146
+msgid "Footer Four"
+msgstr ""
+
+#: functions.php:147
+msgid "Appears on footer Four"
+msgstr ""
+
+#: functions.php:196
+msgid "https://www.theclassictemplates.com/themes/free-tattoo-wordpress-theme/"
+msgstr ""
+
+#: functions.php:199
+msgid "https://www.theclassictemplates.com/themes/"
+msgstr ""
+
+#: functions.php:202
+msgid "https://wordpress.org/support/theme/tattoo-designer"
+msgstr ""
+
+#: functions.php:205
+msgid "https://wordpress.org/support/theme/tattoo-designer/reviews/#new-post"
+msgstr ""
+
+#: functions.php:208
+msgid "https://www.theclassictemplates.com/trial/tattoo-designer/"
+msgstr ""
+
+#: functions.php:211
+msgid ""
+"https://www.theclassictemplates.com/wp-themes/premium-tattoo-designer-"
+"wordpress-theme/"
+msgstr ""
+
+#: functions.php:214
+msgid "http://theclassictemplates.com/documentation/tattoo-designer-free/"
+msgstr ""
+
+#: footer.php:30
+msgid "Tattoo Designer WordPress Theme"
+msgstr ""
+
+#: footer.php:37
+msgid "TOP"
+msgstr ""

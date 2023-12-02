@@ -1,0 +1,66 @@
+
+The following is logged from get_action_title()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 734:
+
+... insert_revision_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1020:
+
+...... insert_revision_updated_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1112:
+[2023-12-02 00:46:00] Action does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 734:
+
+... insert_revision_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1020:
+
+...... insert_revision_updated_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1112:
+[2023-12-02 00:46:00] Action does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 734:
+
+... insert_revision_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1020:
+
+...... insert_revision_updated_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1112:
+[2023-12-02 00:46:57] Action does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 734:
+
+... insert_revision_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1020:
+
+...... insert_revision_updated_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1112:
+[2023-12-02 00:46:57] Action does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 734:
+
+... insert_revision_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1020:
+
+...... insert_revision_updated_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1112:
+[2023-12-02 00:47:21] Action does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 734:
+
+... insert_revision_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1020:
+
+...... insert_revision_updated_appointment_type()
+in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\simply-schedule-appointments\includes\class-revision-model.php line 1112:
+[2023-12-02 00:47:21] Action does not exist in get_action_title
+
